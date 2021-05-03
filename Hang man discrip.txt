@@ -1,0 +1,15 @@
+1. 2 ppl -> Choose a random word
+		 -> Dash = number of letters in the word
+			2nd person -> Guess -> Correct -> 1st person write the letter in the correct place
+								-> Wrong   -> Lose 1 life -> 1st person write down the wrong letter -> Draw a person
+			After 6 wrongs -> End game
+			Guess the correct word -> End game 
+			
+1. 1st function -> Choose a random word
+- Have a file containing words
+- Read words from file into a container (Use ifstream)
+- Choose a random number -> Use that number as index for word 
+2. Check if answer correct
+- Go through each letter of hangman word -> Wrong -> Write "_" + Keep track of wrong guesses(number of wrong) + Draw person body part-> Move to the next letter of hangman word
+										 -> Correct -> Write letter -> Move to the next letter of hangman word
+
