@@ -26,7 +26,6 @@ string random_word(string file_name) {
 	//Choose a random index
 	srand(time(NULL));
 	int index = rand() % list.size();
-
 	//Choose a random word from list
 	string hangman_word = list[index];
 
