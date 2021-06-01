@@ -1,11 +1,13 @@
 #include<iostream>
 #include<string>
 #include<stdlib.h>
+#include<ctime>
 #include "check_letter.h"
 #include "draw_hangman.h"
 #include "random_word.h"
 using namespace std;
 void start_game() {
+	
 	string hangman_word = random_word("words_list.txt");
 	int num_letter = hangman_word.size();
 	string missed;
@@ -17,11 +19,13 @@ void start_game() {
 	}
 	cout << endl;
 	cout << "Missed letters: " << endl;
-
+	
 	//Guess a letter
 	bool success = false;
 	string res(num_letter, '_');
 	while (success != true && missed.size() != 6) {
+		int n = clock() / CLOCKS_PER_SEC;
+		cout << "time(sec) = " << n << endl;
 		//Guess a letter
 		cout << "Please enter a letter: ";
 		char guess;
@@ -49,6 +53,7 @@ void start_game() {
 					cout << missed[i] << " ";
 				}
 				cout << endl;
+				
 			}
 		}
 		else {
