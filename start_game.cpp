@@ -67,6 +67,10 @@ void start_game() {
 					cout << res[i] << " ";
 				}
 				cout << endl;
+				cout << "Missed letter: ";
+				for (int i = 0; i != missed.size(); i++) {
+					cout << missed[i] << " ";
+				}
 				success = success_check(res);
 				cout << endl;
 			}
