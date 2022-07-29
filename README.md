@@ -12,7 +12,7 @@
 
 # Demonstration
 
-![startGame](https://user-images.githubusercontent.com/76593076/181752557-8526231e-d7d9-4ebe-88db-904ba4844134.JPG)
-![missedGuess](https://user-images.githubusercontent.com/76593076/181752588-ad9ec553-2ea1-4f63-9376-8fbeb8ec9c91.JPG)
+![startGame](https://user-images.githubusercontent.com/76593076/181753505-ef7ba663-b1ba-4fc3-bae2-818be44cb1d1.JPG)
+![missedGuess](https://user-images.githubusercontent.com/76593076/181753536-4d516da6-bcb7-431c-9a8f-eff61cdca217.JPG)
 ![rightGuess](https://user-images.githubusercontent.com/76593076/181752601-7a7b8614-afb5-42a0-b385-c147747ae285.JPG)
 ![won](https://user-images.githubusercontent.com/76593076/181752614-5254132b-1352-45bf-aad4-3a9d654c5495.JPG)
