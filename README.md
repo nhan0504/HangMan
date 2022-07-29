@@ -14,5 +14,5 @@
 
 ![startGame](https://user-images.githubusercontent.com/76593076/181753505-ef7ba663-b1ba-4fc3-bae2-818be44cb1d1.JPG)
 ![missedGuess](https://user-images.githubusercontent.com/76593076/181753536-4d516da6-bcb7-431c-9a8f-eff61cdca217.JPG)
-![rightGuess](https://user-images.githubusercontent.com/76593076/181752601-7a7b8614-afb5-42a0-b385-c147747ae285.JPG)
-![won](https://user-images.githubusercontent.com/76593076/181752614-5254132b-1352-45bf-aad4-3a9d654c5495.JPG)
+![rightGuess](https://user-images.githubusercontent.com/76593076/181754365-d18e08d0-815e-4870-b6fd-8e16b8b2a1d2.JPG)
+![won](https://user-images.githubusercontent.com/76593076/181754754-211a8ae8-e1cf-4b14-9cd3-7e64561019b3.JPG)
