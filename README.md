@@ -1,6 +1,7 @@
-# Overview
-- A simple console hangman game using C++
-- User can guess common english words and choose to replay when he or she finished a game
+# Project Name
+HangMan 
+
+A simple console hangman game where user can guess common english words and choose to replay when he or she finished a game
 
 # How it works
 - While user input is not valid, prompts the user to enter another letter
